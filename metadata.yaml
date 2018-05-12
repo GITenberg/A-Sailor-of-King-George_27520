@@ -1,0 +1,36 @@
+_repo: A-Sailor-of-King-George_27520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffman, Frederick, Captain
+    alias: Hoffman, F. W. (Frederick W.), Captain
+    gutenberg_agent_id: '32740'
+    url: http://www.gutenberg.org/2009/agents/32740
+  editors:
+  - agent_name: Wolryche-Whitmore, H. B.
+    gutenberg_agent_id: '32750'
+    url: http://www.gutenberg.org/2009/agents/32750
+  - agent_name: Bevan, A. Beckford
+    alias: Bevan, Algernon Beckford
+    gutenberg_agent_id: '32749'
+    url: http://www.gutenberg.org/2009/agents/32749
+description: ''
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27520'
+  lccn: 02009175
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hoffman, Frederick, Captain -- Diaries'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History, Naval -- 18th century -- Sources'
+- !lcsh 'Great Britain -- History, Naval -- 19th century -- Sources'
+title: A Sailor of King George
+url: http://www.gutenberg.org/ebooks/27520
